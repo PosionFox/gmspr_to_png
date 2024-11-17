@@ -7,4 +7,5 @@ Thanks to YellowAfterLife for indirectly helping me with their code lol.
 ### step 1: run the .exe and hit convert.
 ### step 2: wait until it finishes converting.
 ### step 3: run the .bat file to convert the extensions to .png.
-### step 4: enjoy.
+### step 4: locate your files at %localappdata%/gmspr_to_png
+### step 5: enjoy.
